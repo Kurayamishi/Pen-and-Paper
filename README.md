@@ -1,2 +1,10 @@
-# Pen-and-Paper
-Project for pen and paper games
+# Pen and paper 
+---
+- Frontend in Angular 
+- Backend in Java
+
+|planned|Implemented|Game  |
+|-      |-          |-     |
+| yes   | x         |DnD   |
+| ?     | x         |Aborea|
+| ?     | x         |DSA   |
